@@ -1,6 +1,6 @@
 
 # Sublime text snippets
-This sublime text plugin holds code snippets for common programming practices and statements in React.js. Adding this package will let you autocomplete statements and save time.
+This sublime text package holds code snippets for common programming practices and statements in React.js. Adding this package will let you autocomplete statements and save time.
 
 ## Adding this package to your sublime text
 
@@ -53,3 +53,5 @@ To get a preview of the snippets, you just have to type *r* or *jsx* and it pops
 3. **JSX Header** - jsx.hdr
 4. **JSX Input** - jsx.inp
 5. **Any JSX Tag** - jsx.tag
+
+*More To Come!*
