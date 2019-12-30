@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-const { ${1} } = this.props
+const { ${1} } = this.props;
 ]]></content>
 	<tabTrigger>r.dstp</tabTrigger>
 	<description>Destructure Props</description>
