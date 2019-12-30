@@ -2,6 +2,8 @@
 # Sublime text snippets
 This sublime text package holds code snippets for common programming practices and statements in React.js. Adding this package will let you autocomplete statements and save time.
 
+![gif](demo.gif)
+
 ## Adding this package to your sublime text
 
 1. Clone the repository
