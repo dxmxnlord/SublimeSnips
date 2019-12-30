@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<${1:name}>${2}</h${1/\*//}>
+]]></content>
+	<tabTrigger>jsx.tag</tabTrigger>
+	<description>JSX Tag</description>
+	<scope>source.js</scope>
+</snippet>

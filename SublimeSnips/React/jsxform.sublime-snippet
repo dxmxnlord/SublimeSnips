@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<form onSubmit={} >
+	${1}
+	<input type="submit" value="Submit" />
+</form>
+]]></content>
+	<tabTrigger>jsx.form</tabTrigger>
+	<description>JSX Form</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{${1:condition} && ${2:perform}}
+]]></content>
+	<tabTrigger>r.ii</tabTrigger>
+	<description>Inline If</description>
+	<scope>source.js</scope>
+</snippet>

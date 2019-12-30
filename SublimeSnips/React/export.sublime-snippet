@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+export { ${1:this} };
+]]></content>
+	<tabTrigger>r.exp</tabTrigger>
+	<description>Export</description>
+	<scope>source.js</scope>
+</snippet>

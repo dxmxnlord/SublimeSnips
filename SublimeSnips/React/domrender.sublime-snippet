@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+ReactDOM.render(
+	${1:element},
+	document.getElementById("${2:root}")
+);
+]]></content>
+	<tabTrigger>r.domr</tabTrigger>
+	<description>ReactDOM.render</description>
+	<scope>source.js</scope>
+</snippet>

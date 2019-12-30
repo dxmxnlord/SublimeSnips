@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.${1} = this.${1/\*//}.bind(this);
+]]></content>
+	<tabTrigger>r.btc</tabTrigger>
+	<description>Bind To Class</description>
+	<scope>source.js</scope>
+</snippet>

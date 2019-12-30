@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+const ${1:Component} = (props${2:,}){
+${3:	}
+	return (${4});
+}
+]]></content>
+	<tabTrigger>r.fca</tabTrigger>
+	<description>Functional Component Arrow</description>
+	<scope>source.js</scope>
+</snippet>

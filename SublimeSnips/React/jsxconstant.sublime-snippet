@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+const ${1:name} = ( ${2:jsx} );
+]]></content>
+	<tabTrigger>r.jsxc</tabTrigger>
+	<description>Constant JSX</description>
+	<scope>source.js</scope>
+</snippet>

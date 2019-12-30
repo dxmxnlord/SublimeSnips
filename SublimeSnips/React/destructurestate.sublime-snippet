@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+const { ${1} } = this.state
+]]></content>
+	<tabTrigger>r.dsts</tabTrigger>
+	<description>Destructure State</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+class ${1:Component} extends React.PureComponent {
+	constructor(props){
+		super(props);
+		this.state = {${2}};
+${3:		}
+	}
+
+	render(){
+${4:		}
+		return (
+			${5}
+		);
+	}
+}
+]]></content>
+	<tabTrigger>r.pcc</tabTrigger>
+	<description>Pure Class Component</description>
+	<scope>source.js</scope>
+</snippet>

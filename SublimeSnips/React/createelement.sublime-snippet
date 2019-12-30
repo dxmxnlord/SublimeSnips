@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+const ${1:name} = React.createElement(
+	${2:''},
+	{${3:}},
+	${4:''}
+);
+]]></content>
+	<tabTrigger>r.ce</tabTrigger>
+	<description>Create Element</description>
+	<scope>source.js</scope>
+</snippet>

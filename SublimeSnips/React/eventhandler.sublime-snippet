@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+${1:function }${2:handler}(event){
+${3:	event.preventDefault();}
+${4:	}
+}
+]]></content>
+	<tabTrigger>r.eh</tabTrigger>
+	<description>Event Handler</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<${1} ${2:props} >
+	${3:children}
+</${1/\*//}>
+]]></content>
+	<tabTrigger>jsx.comp</tabTrigger>
+	<description>JSX Component</description>
+	<scope>source.js</scope>
+</snippet>

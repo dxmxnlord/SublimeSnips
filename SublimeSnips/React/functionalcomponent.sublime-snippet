@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+function ${1:Component}(props${2:,}){
+${3:	}
+	return (${4});
+}
+]]></content>
+	<tabTrigger>r.fc</tabTrigger>
+	<description>Functional Component</description>
+	<scope>source.js</scope>
+</snippet>

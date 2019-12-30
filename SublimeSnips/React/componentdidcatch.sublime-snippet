@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+componentDidCatch(${1:error,}${2:info}){
+	${3}
+}
+]]></content>
+	<tabTrigger>r.cdc</tabTrigger>
+	<description>Component Did Catch</description>
+	<scope>source.js</scope>
+</snippet>

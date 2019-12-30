@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<label>
+  ${1:Label}:
+  <input type="${2:type}" ${3:value=} ${4:onChange=} ${5:required} />
+</label>
+]]></content>
+	<tabTrigger>jsx.inp</tabTrigger>
+	<description>JSX Input</description>
+	<scope>source.js</scope>
+</snippet>

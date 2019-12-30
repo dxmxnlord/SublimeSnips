@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{${1:condition} ? ${2:true} : ${3:false}}
+]]></content>
+	<tabTrigger>r.iie</tabTrigger>
+	<description>Inline If Else</description>
+	<scope>source.js</scope>
+</snippet>

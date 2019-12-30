@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+let ${1:name} = ( ${2:jsx} );
+]]></content>
+	<tabTrigger>r.jsxl</tabTrigger>
+	<description>Let JSX</description>
+	<scope>source.js</scope>
+</snippet>

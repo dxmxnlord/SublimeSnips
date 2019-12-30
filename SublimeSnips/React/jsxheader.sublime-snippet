@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<h${1:1}>${2}</h${1/\*//}>
+]]></content>
+	<tabTrigger>jsx.hdr</tabTrigger>
+	<description>JSX Header</description>
+	<scope>source.js</scope>
+</snippet>

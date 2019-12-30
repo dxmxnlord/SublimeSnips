@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+class ${1:Component} extends React.Component {
+	constructor(props){
+		super(props);
+		this.state = {${2}};
+${3:		}
+	}
+
+	render(){
+${4:		}
+		return (
+			${5}
+		);
+	}
+}
+]]></content>
+	<tabTrigger>r.cc</tabTrigger>
+	<description>Class Component</description>
+	<scope>source.js</scope>
+</snippet>
