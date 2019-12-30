@@ -18,6 +18,7 @@ Many snippets take multiple inputs, although it is not required for you to give 
 To get a preview of the snippets, you just have to type *r* or *jsx* and it pops up a menu for you to select.
 
 ## Snippet shorthands
+### React
 #### React based
 1. **ReactDOM.render** - r.domr
 2. **Class Component** - r.cc
